@@ -14,3 +14,4 @@ for elem in shopping_dict:
 print(f'W sumie kupuję {number_of_values} produktów')
 print('Właśnie dodałem linię')
 print('O proszę, właśnie dodałem jeszcze jedną linię')
+print('Specjalne pozdrowienia dla mentora!')
