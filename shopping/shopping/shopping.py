@@ -12,3 +12,4 @@ for elem in shopping_dict:
   print(f'Idę do {elem.title()} i kupuję tam {products_capitalized}')
 
 print(f'W sumie kupuję {number_of_values} produktów')
+print('Właśnie dodałem linię')
